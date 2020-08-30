@@ -16,6 +16,7 @@ In asynchronous distributed systems with lossy network, its impossible to achiev
 There are several implementation of membership protocol few are,<br>
 Ring heart beating<br>
 All to All heart beating<br>
+Centralized<br>
 Gossip protocol<br>
 SWIM protocol<br>
 <hr>
