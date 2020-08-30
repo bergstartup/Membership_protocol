@@ -7,7 +7,7 @@ This algorithm is classified into two components,<br>
 2.Dissemination - Broadcasts the process failure info to other process.<br><br>
 
 Following are the characteristics of the membership protocol<br>
-1.Completeness - If a process fails that will be noted by process.<br>
+1.Completeness - If a process fails that will be noted by other process.<br>
 2.Accuracy - A process is marked as failed only if its failed.<br>
 <br>
 <b>Note</b><br>
